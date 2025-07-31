@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\zaida\\Documents\\PBT\\C#\\AplikasiPencatatanWarga\\AplikasiPencatatanWarga.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\zaida\\Documents\\PBT\\C#\\AplikasiPencatatanWarga\\AplikasiPencatatanWarga.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zaida\\Documents\\PBT\\C#\\AplikasiPencatatanWarga\\AplikasiPencatatanWarga.csproj",
+        "projectName": "AplikasiPencatatanWarga",
+        "projectPath": "C:\\Users\\zaida\\Documents\\PBT\\C#\\AplikasiPencatatanWarga\\AplikasiPencatatanWarga.csproj",
+        "packagesPath": "C:\\Users\\zaida\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zaida\\Documents\\PBT\\C#\\AplikasiPencatatanWarga\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zaida\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "dependencies": {
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.119, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
